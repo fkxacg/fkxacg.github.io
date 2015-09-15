@@ -8,6 +8,8 @@ abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vert
 input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}
 legend{color:#000;}
 
+#categories  ul{font-family: 'Microsoft Yahei', sans-serif;color: rgb(98,225,239);}
+
 .article{margin: 0px auto 0px auto; font-family: 'Open Sans'; font-style: light;}
 #hero {max-height: 300px;background: rgb(211,211,211) url(images/1.jpg) top no-repeat;background-attachment: fixed;}
 h1{font-family: Open Sans, sans-serif; font-size: 72px;color: white;margin:0 auto 0 auto; font-weight: 300; 
