@@ -525,7 +525,7 @@ a.team_soc1 {
 }
 a.team_soc2 {
 	display:block;
-	right:15%;
+	right:30%;
 	background-image:url(../images/team_soc2.png) ;
 }
 .team1:hover a.team_soc1,
@@ -610,7 +610,7 @@ a.team_soc2 {
 	left:30%;
 }
 .team2 a.team_soc2 {
-	right:30%;
+	right:40%;
 }
 .team2 p {
 	padding:7px 0 0 0;
@@ -648,7 +648,7 @@ a.team_soc2 {
 	left:34%;
 }
 .team3 a.team_soc2 {
-	right:34%;
+	right:44%;
 }
 .team3 p {
 	padding:12px 0 0 0;
