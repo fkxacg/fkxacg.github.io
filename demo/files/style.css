@@ -170,6 +170,12 @@ h3 {
 	line-height:36px;
 	color:#3e3e3e;
 }
+
+/*
+ * use in logion auther
+ * auther text
+ * right and left padding 
+ */
 .author span {
 	display:inline-block;
 	padding:0 8px;
@@ -180,6 +186,12 @@ h3 {
 	line-height:36px;
 	color:#3e3e3e;
 }
+
+/*
+ * use in logion author
+ * add two line pic
+ * inline-block, under space, back img, height and width
+ */
 .author_bord {
 	display:inline-block;
 	padding-bottom:5px;
